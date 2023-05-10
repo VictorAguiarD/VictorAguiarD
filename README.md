@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá,eu sou Victor Aguiar🤝
 
-<!--
-**VictorAguiarD/VictorAguiarD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a.g.u.i.a.r.16?igshid%3DZGUzMzM3NWJiOQ%3D%3D)
+[![Linkidin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-matheus-069785266)
 
-Here are some ideas to get you started:
+![VictorAguiarD GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAguiarD&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="color:#00CED1;">
+ <h3>Cursando Análise e Desenvolvimento de Sistemas</h3>
+</div>
+
+<div style="display:inline_block"></br>
+<img align="center" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+<img align="center" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
+<img align="center" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+
+</div><br>
+
+<h3 align="center" style="color:#00CED1;">A tecnologia pode salvar o planeta - basta ser usada para os objetivos corretos.</h3>
+</div>
